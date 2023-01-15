@@ -40,7 +40,7 @@
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/metnerium/badges/large)
+![codewars](https://www.codewars.com/users/meitnerium/badges/large)
 
 ### ⚙️ GitHub статистика:
 
