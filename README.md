@@ -1,25 +1,6 @@
 
 # Привет, меня зовут Вадим!
 
----
-
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-metnerium-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/metnerium) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vadim.kornienkov@inbox.ru)
-
----
-
-### 🤝 Социальные сети:
-
-  <div id="badges">
-    <a href="https://t.me/metnerium" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-  </a>
-    <a href="https://vk.com/metnerium" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
-  </div>
-
----
-
 ### 💻 Технологии:
 
 <div>
